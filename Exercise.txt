@@ -1,0 +1,4 @@
+1. A Terminal is black window screen that allows you to input command that grants you access to modify or change something in your computer.
+2. GIT is more towards purpose of an individual	while GIThub is made to help large groups like business or companies of coders.
+3. Is to allow for resources that everyone relies	on in the business to be easily accessed for the workers to know what to expect.
+
